@@ -5,28 +5,35 @@
     <title>The Swift Sweets</title>
     <link>https://github.com/MKGitHub/TheSwiftSweets</link>
     <description>RSS for new Swift libs, sweet and awesome!</description>
-    <lastBuildDate>Fri, 21 Oct 2016 21:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Oct 2016 23:19:00 GMT</lastBuildDate>
     <copyright>Copyright 2016 Mohsan Khan</copyright>
 
     <item>
-        <title>Test Entry Title 11</title>
-        <link>https://github.com/MKGitHub/UIPheonix</link>
-        <description>Test Entry Body 3</description>
-        <guid isPermaLink="false">Test-011</guid>
-    </item>
-
-    <item>
-        <title>Test Entry Title 22</title>
-        <link>https://github.com/MKGitHub/UIPheonix</link>
-        <description>Test Entry Body 1</description>
-        <guid isPermaLink="false">Test-022</guid>
-    </item>
-
-    <item>
-        <title>Test Entry Title 33</title>
+        <title>JSONX 1.0.0</title>
         <link>https://github.com/MKGitHub/JSONX</link>
-        <description>Test Entry Body 2</description>
-        <guid isPermaLink="false">Test-033</guid>
+        <description>Parse JSON data, simple, lightweight and without noise.</description>
+        <guid isPermaLink="false">Feed-2016-Oct-22_004</guid>
+    </item>
+
+    <item>
+        <title>UIPheonix 1.0.0</title>
+        <link>https://github.com/MKGitHub/UIPheonix</link>
+        <description>When Chuck Norris develops an app, he uses UIPheonix!</description>
+        <guid isPermaLink="false">Feed-2016-Oct-22_003</guid>
+    </item>
+
+    <item>
+        <title>MKBlockQueue 1.0.3</title>
+        <link>https://github.com/MKGitHub/MKBlockQueue</link>
+        <description>MKBlockQueue allows you to create a chain of blocks and execute them one after the other in a queue.</description>
+        <guid isPermaLink="false">Feed-2016-Oct-22_002</guid>
+    </item>
+
+    <item>
+        <title>MessageBox-Concept 1.0.4</title>
+        <link>https://github.com/MKGitHub/MessageBox-Concept</link>
+        <description>MessageBox is a simple concept for decoupling entities. Think of it as notifications but the opposite.</description>
+        <guid isPermaLink="false">Feed-2016-Oct-22_001</guid>
     </item>
 
 </channel>
