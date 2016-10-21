@@ -5,14 +5,13 @@
     <title>The Swift Sweets</title>
     <link>https://github.com/MKGitHub/TheSwiftSweets</link>
     <description>RSS for new Swift libs, sweet & awesome!</description>
-    <lastBuildDate>Sat, 22 Oct 2016 21:34:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Oct 2016 21:35:00 GMT</lastBuildDate>
 
     <item>
         <title>Test Entry Title 11</title>
         <link>https://github.com/MKGitHub/UIPheonix</link>
         <description>Test Entry Body 3</description>
         <guid>Test-011</guid>
-        <pubDate>Sat, 22 Oct 2016 21:33:00 GMT</pubDate>
     </item>
 
     <item>
@@ -20,7 +19,6 @@
         <link>https://github.com/MKGitHub/UIPheonix</link>
         <description>Test Entry Body 1</description>
         <guid>Test-022</guid>
-        <pubDate>Sat, 22 Oct 2016 21:32:00 GMT</pubDate>
     </item>
 
     <item>
@@ -28,7 +26,6 @@
         <link>https://github.com/MKGitHub/JSONX</link>
         <description>Test Entry Body 2</description>
         <guid>Test-033</guid>
-        <pubDate>Sat, 22 Oct 2016 21:31:00 GMT</pubDate>
     </item>
 
 </channel>
