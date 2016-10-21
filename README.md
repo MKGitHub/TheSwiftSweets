@@ -1,6 +1,9 @@
 ### The Swift Sweets
 RSS for new Swift libs, sweet &amp; awesome!
 
+### Why?
+* Because when you create a new awesome Swift lib it can be difficult to reach out to all the awesome developers out there! Similarly it can be difficult as a developer to know what awesome Swift libs are created. So this is an initative to solve that problem – let's give it a try and please spread the word :-) Thank you!
+
 ### Reading the feed
 * Just copy this URL into your RSS reader
 https://raw.githubusercontent.com/MKGitHub/TheSwiftSweets/master/rss.xml
