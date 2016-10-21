@@ -6,6 +6,12 @@
     <link>https://github.com/MKGitHub/TheSwiftSweets</link>
     <description>RSS for new Swift libs, sweet & awesome!</description>
 
+    <image>
+        <url>http://www.w3schools.com/images/logo.gif</url>
+        <title>W3Schools.com</title>
+        <link>http://www.w3schools.com</link>
+    </image>
+
     <item>
         <title>Test Entry Title 1</title>
         <link>https://github.com/MKGitHub/TheSwiftSweets</link>
