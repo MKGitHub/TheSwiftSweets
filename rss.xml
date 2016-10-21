@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+    <title>The Swift Sweets</title>
+    <link>https://github.com/MKGitHub/TheSwiftSweets</link>
+    <description>RSS for new Swift libs, sweet & awesome!</description>
+
+    <item>
+        <title>Test Entry Title 1</title>
+        <link>https://github.com/MKGitHub/TheSwiftSweets</link>
+        <description>Test Entry Body 1</description>
+    </item>
+
+    <item>
+        <title>Test Entry Title 2</title>
+        <link>https://github.com/MKGitHub/TheSwiftSweets</link>
+        <description>Test Entry Body 2</description>
+    </item>
+
+</channel>
+
+</rss>
