@@ -8,27 +8,27 @@
     <lastBuildDate>Sat, 22 Oct 2016 00:20:00 GMT</lastBuildDate>
 
     <item>
-        <title>Test Entry Title 3</title>
+        <title>Test Entry Title 11</title>
         <link>https://github.com/MKGitHub/UIPheonix</link>
         <description>Test Entry Body 3</description>
-        <guid>Test-003</guid>
-        <pubDate>Sat, 22 Oct 2016 00:24:00 GMT</pubDate>
+        <guid>Test-011</guid>
+        <pubDate>Sat, 22 Oct 2016 00:32:00 GMT</pubDate>
     </item>
 
     <item>
-        <title>Test Entry Title 1</title>
+        <title>Test Entry Title 22</title>
         <link>https://github.com/MKGitHub/UIPheonix</link>
         <description>Test Entry Body 1</description>
-        <guid>Test-001</guid>
-        <pubDate>Sat, 22 Oct 2016 00:20:00 GMT</pubDate>
+        <guid>Test-022</guid>
+        <pubDate>Sat, 22 Oct 2016 00:32:00 GMT</pubDate>
     </item>
 
     <item>
-        <title>Test Entry Title 2</title>
+        <title>Test Entry Title 33</title>
         <link>https://github.com/MKGitHub/JSONX</link>
         <description>Test Entry Body 2</description>
-        <guid>Test-002</guid>
-        <pubDate>Sat, 22 Oct 2016 00:20:00 GMT</pubDate>
+        <guid>Test-033</guid>
+        <pubDate>Sat, 22 Oct 2016 00:32:00 GMT</pubDate>
     </item>
 
 </channel>
