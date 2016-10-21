@@ -8,6 +8,14 @@
     <lastBuildDate>Sat, 22 Oct 2016 00:20:00 GMT</lastBuildDate>
 
     <item>
+        <title>Test Entry Title 3</title>
+        <link>https://github.com/MKGitHub/UIPheonix</link>
+        <description>Test Entry Body 3</description>
+        <guid>Test-003</guid>
+        <pubDate>Sat, 22 Oct 2016 00:24:00 GMT</pubDate>
+    </item>
+
+    <item>
         <title>Test Entry Title 1</title>
         <link>https://github.com/MKGitHub/UIPheonix</link>
         <description>Test Entry Body 1</description>
