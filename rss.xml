@@ -9,6 +9,20 @@
     <copyright>Copyright 2016 Mohsan Khan</copyright>
 
     <item>
+        <title>MakeXcodeGr8Again</title>
+        <link>https://github.com/fpg1503/MakeXcodeGr8Again</link>
+        <description>Xcode + Plugins = (Love)</description>
+        <guid isPermaLink="false">Feed-2016-Oct-22_006</guid>
+    </item>
+
+    <item>
+        <title>Each 1.0.0</title>
+        <link>https://github.com/dalu93/Each</link>
+        <description>Elegant (clock/timer) interface for Swift apps.</description>
+        <guid isPermaLink="false">Feed-2016-Oct-22_005</guid>
+    </item>
+
+    <item>
         <title>JSONX 1.0.0</title>
         <link>https://github.com/MKGitHub/JSONX</link>
         <description>Parse JSON data, simple, lightweight and without noise.</description>
