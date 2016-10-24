@@ -9,6 +9,41 @@
     <copyright>Copyright 2016 Mohsan Khan</copyright>
 
     <item>
+        <title>apegroup-cardviewcontroller-ios</title>
+        <link>https://github.com/apegroup/apegroup-cardviewcontroller-ios</link>
+        <description>A scrollable "card view controller".</description>
+        <guid isPermaLink="false">Feed-2016-Oct-24_005</guid>
+    </item>
+
+    <item>
+        <title>apegroup-parallaxpagecontroller-ios</title>
+        <link>https://github.com/apegroup/apegroup-parallaxpagecontroller-ios</link>
+        <description>A page based scroll view with a configurable parallax effect. Useful for e.g. tutorial/onboarding scenes.</description>
+        <guid isPermaLink="false">Feed-2016-Oct-24_004</guid>
+    </item>
+
+    <item>
+        <title>apegroup-slidabletabpagecontroller-ios</title>
+        <link>https://github.com/apegroup/apegroup-slidabletabpagecontroller-ios</link>
+        <description>A slidable tab page controller written in Swift.</description>
+        <guid isPermaLink="false">Feed-2016-Oct-24_003</guid>
+    </item>
+
+    <item>
+        <title>APESuperHUD</title>
+        <link>https://github.com/apegroup/APESuperHUD</link>
+        <description>A simple way to display a HUD with a message or progress information in your application.</description>
+        <guid isPermaLink="false">Feed-2016-Oct-24_002</guid>
+    </item>
+
+    <item>
+        <title>APEReactiveNetworking</title>
+        <link>https://github.com/apegroup/APEReactiveNetworking</link>
+        <description>A small networking lib based on ReactiveCocoa.</description>
+        <guid isPermaLink="false">Feed-2016-Oct-24_001</guid>
+    </item>
+
+    <item>
         <title>MakeXcodeGr8Again</title>
         <link>https://github.com/fpg1503/MakeXcodeGr8Again</link>
         <description>Xcode + Plugins = (Love)</description>
